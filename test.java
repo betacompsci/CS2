@@ -6,7 +6,7 @@ public class test{
 		//how do comments come out? 
 		System.out.println("This is a test of the github example");
 		
-	
+		System.out.println("its been a while");
 	}
 
 }
